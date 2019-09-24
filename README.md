@@ -6,3 +6,5 @@ This is a UDP protocol based Client Server application for people that don't lik
 - Reasonably stable
 
 - Memory efficient
+
+- Multithreaded
